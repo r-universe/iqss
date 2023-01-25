@@ -1,5 +1,9 @@
 [
   {
+    "package": "clarify",
+    "oncran": true
+  },
+  {
     "package": "dataverse",
     "oncran": true
   },
