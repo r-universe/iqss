@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "clarify"]
-	path = clarify
-	url = https://github.com/iqss/clarify
-	shallow = true
-	registered = true
 [submodule "dataverse"]
 	path = dataverse
 	url = https://github.com/iqss/dataverse-client-r
@@ -16,5 +11,10 @@
 [submodule "WhatIf"]
 	path = WhatIf
 	url = https://github.com/iqss/whatif
+	shallow = true
+	registered = true
+[submodule "clarify"]
+	path = clarify
+	url = https://github.com/iqss/clarify
 	shallow = true
 	registered = true
