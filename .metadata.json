@@ -1,14 +1,14 @@
 [
   {
+    "package": "clarify",
+    "oncran": true
+  },
+  {
     "package": "dataverse",
     "oncran": true
   },
   {
     "package": "WhatIf",
-    "oncran": true
-  },
-  {
-    "package": "clarify",
     "oncran": true
   }
 ]
