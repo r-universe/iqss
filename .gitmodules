@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WhatIf"]
+	path = WhatIf
+	url = https://github.com/iqss/whatif
 [submodule "clarify"]
 	path = clarify
 	url = https://github.com/iqss/clarify
 [submodule "dataverse"]
 	path = dataverse
 	url = https://github.com/iqss/dataverse-client-r
-[submodule "WhatIf"]
-	path = WhatIf
-	url = https://github.com/iqss/whatif
